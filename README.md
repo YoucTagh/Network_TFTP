@@ -2,7 +2,7 @@
 A basic TFTP system with python
 
 # Prerequisites
-Nothing .
+[Python](https://www.python.org/).
 
 # How to use
   * Lunch Server. 
